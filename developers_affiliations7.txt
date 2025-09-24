@@ -3517,7 +3517,7 @@ mkulke: magnuskulke!microsoft.com, mkulke!gmail.com, mkulke!users.noreply.github
 	moovel from 2016-06-01 until 2020-11-01
 	Mobimeo GmbH from 2020-11-01 until 2022-08-01
 	Microsoft Corporation from 2022-08-01
-mkumatag: mkumatag!in.ibm.com, mkumatag!users.noreply.github.com, shair.nash!gmail.com
+mkumatag: mkumatag!in.ibm.com, mkumatag!users.noreply.github.com
 	International Business Machines Corporation
 mkurylec: maria.kurylec!globant.com, mkurylec!users.noreply.github.com
 	Independent
